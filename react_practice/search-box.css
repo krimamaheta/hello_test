@@ -1,0 +1,13 @@
+.search-box{
+    -webkit-text-stroke-color: yellowgreen;
+    border: 2,solid,green;
+    ouline:none;
+    padding: 10px;
+    width: 150px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+/* 
+.cardlist{
+    background-color: burlywood;
+} */
